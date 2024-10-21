@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kitchen Chair
+* source:	https://sketchfab.com/3d-models/kitchen-chair-50446f1a01074df2a6d281aba93d00e1
+* author:	Lemniscata (https://sketchfab.com/Lemniscata)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kitchen Chair" (https://sketchfab.com/3d-models/kitchen-chair-50446f1a01074df2a6d281aba93d00e1) by Lemniscata (https://sketchfab.com/Lemniscata) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

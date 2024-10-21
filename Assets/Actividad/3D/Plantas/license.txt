@@ -1,0 +1,11 @@
+Model Information:
+* title:	Optimized Potted Plants
+* source:	https://sketchfab.com/3d-models/optimized-potted-plants-967b4bf23fac4098993776fcfc2d3318
+* author:	Nicholas-3D (https://sketchfab.com/Nicholas01)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Optimized Potted Plants" (https://sketchfab.com/3d-models/optimized-potted-plants-967b4bf23fac4098993776fcfc2d3318) by Nicholas-3D (https://sketchfab.com/Nicholas01) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
