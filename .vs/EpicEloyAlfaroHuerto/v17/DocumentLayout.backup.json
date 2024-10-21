@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|e:\\proyectos\\epiceloyalfarohuerto\\assets\\scripts\\ui\\displaydropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|solutionrelative:assets\\scripts\\ui\\displaydropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|E:\\Proyectos\\EpicEloyAlfaroHuerto\\assets\\scripts\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|solutionrelative:assets\\scripts\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zone.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\Zone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Zone.cs",
+              "ToolTip": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\Zone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Zone.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:26:27.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisplayDropdown.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\UI\\DisplayDropdown.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DisplayDropdown.cs",
+              "ToolTip": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\UI\\DisplayDropdown.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\DisplayDropdown.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:28:51.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
