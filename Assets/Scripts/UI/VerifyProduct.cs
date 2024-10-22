@@ -10,6 +10,7 @@ public class VerifyProduct : MonoBehaviour
     public Color colorEnable;
     public Products product;
 
+    public GameObject foodPrefab;
     private void Start()
     {
         image = GetComponent<Image>();
@@ -27,6 +28,13 @@ public class VerifyProduct : MonoBehaviour
         else
         {
             image.color = colorDisable;
+        }
+    }
+    public void CreateFood()
+    {
+        if (ProductsInventory.instance.inventarioProductos[product] > 0)
+        {
+            foodPrefab.SetActive(true);
         }
     }
 }

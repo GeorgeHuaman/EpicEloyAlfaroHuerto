@@ -16,8 +16,13 @@ public class TypeSeed : MonoBehaviour
     private string timeLeftText;
     private bool isReady;
     private bool inZone;
-    [HideInInspector]public Zone Zone;
+    [HideInInspector] public Zone Zone;
     private bool isWater;
+
+    [Header("Mesh")]
+    public MeshFilter meshFilter;
+    public Mesh[] seedMeshes;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -52,6 +57,8 @@ public class TypeSeed : MonoBehaviour
             {
                 textDisplay.text = typeSeed.ToString() + " Listo";
                 isReady = true;
+
+                ChangeMesh();
             }
         }
         else
@@ -60,11 +67,23 @@ public class TypeSeed : MonoBehaviour
         }
         
     }
+    private void ChangeMesh()
+    {
+        int seedIndex = (int)typeSeed;
+
+        if (seedIndex >= 0 && seedIndex < seedMeshes.Length)
+        {
+            meshFilter.mesh = seedMeshes[seedIndex];
+        }
+        else
+        {
+            Debug.LogError("No se encontró un mesh para esta semilla.");
+        }
+    }
     public void Harvest()
     {
         Products harvestedProduct = (Products)typeSeed;
 
-        // Si el producto ya existe en el inventario, incrementa su cantidad
         if (ProductsInventory.instance.inventarioProductos.ContainsKey(harvestedProduct))
         {
             ProductsInventory.instance.inventarioProductos[harvestedProduct]+= productsQuantity;
