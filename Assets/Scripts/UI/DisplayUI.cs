@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DisplayDropdown : MonoBehaviour
+public class DisplayUI : MonoBehaviour
 {
     public GameObject dropDown;
 
