@@ -16,12 +16,13 @@ public class TypeSeed : MonoBehaviour
     private string timeLeftText;
     private bool isReady;
     private bool inZone;
+    public bool isActivate;
+    [HideInInspector]public bool verdureInZone;
     [HideInInspector] public Zone Zone;
     private bool isWater;
 
-    [Header("Mesh")]
-    public MeshFilter meshFilter;
-    public Mesh[] seedMeshes;
+    [Header("Prefabs")]
+    public GameObject[] prefabsVerdure;
 
     // Start is called before the first frame update
     void Start()
@@ -32,19 +33,25 @@ public class TypeSeed : MonoBehaviour
     }
     public void Update()
     {
-        GrowProcces();
-        if (Input.GetKeyDown(KeyCode.E) && inZone)
+        if (isActivate)
         {
-            if (isReady)
-                Harvest();
-            else
-                isWater = true;
+            GrowProcces();
+            if (Input.GetKeyDown(KeyCode.E) && inZone && !verdureInZone)
+            {
+                if (!isReady)
+                    isWater = true;
+            }
         }
+        else
+        {
+            textDisplay.text = "";
+        }
+        
     }
 
     private void GrowProcces()
     {
-        if (isWater)
+        if (isWater && !verdureInZone)
         {
             if (timeNeedle > time)
             {
@@ -58,7 +65,8 @@ public class TypeSeed : MonoBehaviour
                 textDisplay.text = typeSeed.ToString() + " Listo";
                 isReady = true;
 
-                ChangeMesh();
+                EnablePrefab();
+                isActivate = false;
             }
         }
         else
@@ -67,37 +75,40 @@ public class TypeSeed : MonoBehaviour
         }
         
     }
-    private void ChangeMesh()
+    private void EnablePrefab()
     {
         int seedIndex = (int)typeSeed;
 
-        if (seedIndex >= 0 && seedIndex < seedMeshes.Length)
+        if (seedIndex >= 0 && seedIndex < prefabsVerdure.Length)
         {
-            meshFilter.mesh = seedMeshes[seedIndex];
+            prefabsVerdure[seedIndex].SetActive(true);
+            timeNeedle = 10f;
+            isReady = false;
+            verdureInZone = true;
         }
         else
         {
-            Debug.LogError("No se encontró un mesh para esta semilla.");
+            Debug.LogError("No se encontró un prefab para esta semilla.");
         }
     }
-    public void Harvest()
-    {
-        Products harvestedProduct = (Products)typeSeed;
+    //public void Harvest()
+    //{
+    //    Products harvestedProduct = (Products)typeSeed;
 
-        if (ProductsInventory.instance.inventarioProductos.ContainsKey(harvestedProduct))
-        {
-            ProductsInventory.instance.inventarioProductos[harvestedProduct]+= productsQuantity;
-        }
+    //    if (ProductsInventory.instance.inventarioProductos.ContainsKey(harvestedProduct))
+    //    {
+    //        ProductsInventory.instance.inventarioProductos[harvestedProduct]+= productsQuantity;
+    //    }
 
-        Debug.Log("Producto cosechado: " + harvestedProduct + ". Cantidad actual: " + ProductsInventory.instance.inventarioProductos[harvestedProduct]);
-        PlantInteraction.instance.ClosePlantRecipesUI();
-        timeNeedle = 10f;
-        isReady= false;
-        gameObject.SetActive(false);
-    }
+    //    Debug.Log("Producto cosechado: " + harvestedProduct + ". Cantidad actual: " + ProductsInventory.instance.inventarioProductos[harvestedProduct]);
+    //    PlantInteraction.instance.ClosePlantRecipesUI();
+    //    timeNeedle = 10f;
+    //    isReady= false;
+    //    gameObject.SetActive(false);
+    //}
     public void OnTriggerStay(Collider other)
     {
-        if (other.gameObject.layer == LayerMask.NameToLayer("AvatarLocal"))
+        if (other.gameObject.layer == LayerMask.NameToLayer("AvatarLocal") && isActivate)
         {
             inZone = true;
             PlantInteraction.instance.DisplayPlantRecipesUI((Products)typeSeed);
