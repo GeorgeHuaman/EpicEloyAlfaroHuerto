@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 2365016428016204788}
   - component: {fileID: 519829996916608830}
   - component: {fileID: 7791778590117961565}
+  - component: {fileID: -6641540867954796524}
   m_Layer: 0
   m_Name: Pimiento
   m_TagString: Untagged
@@ -97,3 +98,18 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.1, y: 0.53620225, z: 1.1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &-6641540867954796524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2032868154822176491}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77def6df00fa229439cff9fac523761d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  typeProduct: 11
+  productsQuantity: 0
+  typeSeed: {fileID: 0}

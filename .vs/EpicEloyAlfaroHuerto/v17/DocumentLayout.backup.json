@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|e:\\proyectos\\epiceloyalfarohuerto\\assets\\scripts\\seeds\\typeseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|e:\\proyectos\\epiceloyalfarohuerto\\assets\\scripts\\canvastocamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|solutionrelative:assets\\scripts\\canvastocamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|e:\\proyectos\\epiceloyalfarohuerto\\assets\\scripts\\seedsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|solutionrelative:assets\\scripts\\seedsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|E:\\Proyectos\\EpicEloyAlfaroHuerto\\assets\\scripts\\productsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|solutionrelative:assets\\scripts\\productsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|E:\\Proyectos\\EpicEloyAlfaroHuerto\\assets\\scripts\\seeds\\typeseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|solutionrelative:assets\\scripts\\seeds\\typeseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,20 +23,16 @@
       "RelativeMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|solutionrelative:assets\\scripts\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|e:\\proyectos\\epiceloyalfarohuerto\\assets\\scripts\\seeds\\verdure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|solutionrelative:assets\\scripts\\seeds\\verdure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|E:\\Proyectos\\EpicEloyAlfaroHuerto\\assets\\scripts\\ui\\displayscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|solutionrelative:assets\\scripts\\ui\\displayscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|E:\\Proyectos\\EpicEloyAlfaroHuerto\\assets\\scripts\\productsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|solutionrelative:assets\\scripts\\productsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|E:\\Proyectos\\EpicEloyAlfaroHuerto\\assets\\scripts\\seeds\\verdure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|solutionrelative:assets\\scripts\\seeds\\verdure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|E:\\Proyectos\\EpicEloyAlfaroHuerto\\assets\\scripts\\ui\\verifyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|solutionrelative:assets\\scripts\\ui\\verifyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|E:\\Proyectos\\EpicEloyAlfaroHuerto\\assets\\scripts\\ui\\displayscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|solutionrelative:assets\\scripts\\ui\\displayscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,12 +41,25 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 190,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 249,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "CanvasToCamera.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\CanvasToCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CanvasToCamera.cs",
+              "ToolTip": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\CanvasToCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CanvasToCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:30:57.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Verdure.cs",
               "DocumentMoniker": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\Seeds\\Verdure.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Seeds\\Verdure.cs",
@@ -46,12 +67,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Seeds\\Verdure.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T22:45:11.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T22:45:11.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "VerifyProduct.cs",
               "DocumentMoniker": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\UI\\VerifyProduct.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\VerifyProduct.cs",
@@ -63,13 +83,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ProductsInventory.cs",
               "DocumentMoniker": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\ProductsInventory.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ProductsInventory.cs",
               "ToolTip": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\ProductsInventory.cs",
               "RelativeToolTip": "Assets\\Scripts\\ProductsInventory.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwDUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T21:54:33.654Z"
             },
@@ -87,35 +107,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Zone.cs",
               "DocumentMoniker": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\Zone.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Zone.cs",
               "ToolTip": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\Zone.cs",
               "RelativeToolTip": "Assets\\Scripts\\Zone.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAtwBEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwB4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T20:26:27.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T20:26:27.721Z"
             }
           ]
         },
         {
-          "DockedWidth": 210,
+          "DockedWidth": 151,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "SeedsInventory.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\SeedsInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SeedsInventory.cs",
+              "ToolTip": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\SeedsInventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SeedsInventory.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:50:33.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TypeSeed.cs",
               "DocumentMoniker": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\Seeds\\TypeSeed.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Seeds\\TypeSeed.cs",
               "ToolTip": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\Seeds\\TypeSeed.cs",
               "RelativeToolTip": "Assets\\Scripts\\Seeds\\TypeSeed.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAYwBwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T21:36:26.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T21:36:26.947Z"
             }
           ]
         }
