@@ -58,11 +58,11 @@ public class TypeSeed : MonoBehaviour
                 timeNeedle -= Time.deltaTime;
                 int timeLeftInt = Mathf.FloorToInt(timeNeedle);
                 timeLeftText = timeLeftInt.ToString();
-                textDisplay.text = typeSeed.ToString() + timeLeftText;
+                textDisplay.text = typeSeed.ToString() + "\n" + timeLeftText;
             }
             else
             {
-                textDisplay.text = typeSeed.ToString() + " Listo";
+                textDisplay.text = typeSeed.ToString() + "\n" + "Listo";
                 isReady = true;
 
                 EnablePrefab();
@@ -79,7 +79,7 @@ public class TypeSeed : MonoBehaviour
     {
         int seedIndex = (int)typeSeed;
 
-        if (seedIndex >= 0 && seedIndex < prefabsVerdure.Length)
+        if (seedIndex >= 0 && seedIndex < prefabsVerdure.Length && prefabsVerdure[seedIndex] != null)
         {
             prefabsVerdure[seedIndex].SetActive(true);
             timeNeedle = 10f;

@@ -23,7 +23,7 @@ public class Zone : MonoBehaviour
     public void Plant()
     {
         bool haveSeeds= seedsInventory.HaveSeeds(selectSeed.actualSeed);
-        if (haveSeeds)
+        if (haveSeeds && typeSeedObject.prefabsVerdure[(int)selectSeed.actualSeed])
         {
             Debug.Log("Hay semillas disponibles para: " + selectSeed.actualSeed);
             //seed.SetActive(true);
