@@ -99,6 +99,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   typeProduct: 0
   productsQuantity: 1
+  typeSeed: {fileID: 0}
 --- !u!65 &-7688474962816267946
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -110,5 +111,5 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1.1, y: 0.7813634, z: 1.1}
+  m_Size: {x: 1.5, y: 0.7813634, z: 3}
   m_Center: {x: 0, y: 0, z: 0}
