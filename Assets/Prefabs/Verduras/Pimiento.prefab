@@ -111,5 +111,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   typeProduct: 11
-  productsQuantity: 0
+  productsQuantity: 1
   typeSeed: {fileID: 0}

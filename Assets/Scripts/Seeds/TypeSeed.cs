@@ -17,7 +17,7 @@ public class TypeSeed : MonoBehaviour
     private bool isReady;
     private bool inZone;
     public bool isActivate;
-    [HideInInspector]public bool verdureInZone;
+    public bool verdureInZone;
     [HideInInspector] public Zone Zone;
     private bool isWater;
 

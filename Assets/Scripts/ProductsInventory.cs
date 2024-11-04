@@ -29,7 +29,8 @@ public class ProductsInventory : MonoBehaviour
             { Products.calabaza, 0 },
             { Products.pimiento, 0 },
             { Products.zanahoria, 0 },
-            { Products.acelga, 0 }
+            { Products.acelga, 0 },
+            { Products.camote, 0 }
         };
     }
 
@@ -51,5 +52,6 @@ public enum Products
     calabaza,
     pimiento,
     zanahoria,
-    acelga
+    acelga,
+    camote
 }

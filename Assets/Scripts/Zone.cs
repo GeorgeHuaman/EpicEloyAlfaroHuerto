@@ -14,7 +14,7 @@ public class Zone : MonoBehaviour
     public bool inZone;
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.E) && inZone && !typeSeedObject.verdureInZone)
+        if (Input.GetKeyDown(KeyCode.E) && inZone && !typeSeedObject.verdureInZone && !typeSeedObject.isActivate)
         {
             Plant();
         }
