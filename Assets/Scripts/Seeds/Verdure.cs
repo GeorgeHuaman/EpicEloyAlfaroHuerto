@@ -26,7 +26,7 @@ public class Verdure : MonoBehaviour
         }
 
         Debug.Log("Producto cosechado: " + harvestedProduct + ". Cantidad actual: " + ProductsInventory.instance.inventarioProductos[harvestedProduct]);
-        PlantInteraction.instance.ClosePlantRecipesUI();
+        //PlantInteraction.instance.ClosePlantRecipesUI();
         typeSeed.verdureInZone = false;
         gameObject.SetActive(false);
     }
@@ -36,7 +36,7 @@ public class Verdure : MonoBehaviour
         if (other.gameObject.layer == LayerMask.NameToLayer("AvatarLocal"))
         {
             inZone = true;
-            PlantInteraction.instance.DisplayPlantRecipesUI(typeProduct);
+            //PlantInteraction.instance.DisplayPlantRecipesUI(typeProduct);
         }
     }
 
@@ -45,7 +45,7 @@ public class Verdure : MonoBehaviour
         if (other.gameObject.layer == LayerMask.NameToLayer("AvatarLocal"))
         {
             inZone = false;
-            PlantInteraction.instance.ClosePlantRecipesUI();
+            //PlantInteraction.instance.ClosePlantRecipesUI();
         }
     }
 }

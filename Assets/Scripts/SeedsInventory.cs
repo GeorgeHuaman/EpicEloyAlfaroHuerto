@@ -29,7 +29,11 @@ public class SeedsInventory : MonoBehaviour
             { Seed.Pimiento, 1 },
             { Seed.Zanahoria, 1 },
             { Seed.Acelga, 1 },
-            { Seed.Camote, 1 }
+            { Seed.Camote, 1 },
+            { Seed.Amaranto, 1 },
+            { Seed.Canguil, 1 },
+            { Seed.Mashua, 1 },
+            { Seed.Ocas, 1 }
         };
     }
     public bool HaveSeeds(Seed seedSelected)
@@ -67,7 +71,11 @@ public enum Seed
     Pimiento,
     Zanahoria,
     Acelga,
-    Camote
+    Camote,
+    Amaranto,
+    Canguil,
+    Mashua,
+    Ocas
 }
 
 

@@ -111,7 +111,7 @@ public class TypeSeed : MonoBehaviour
         if (other.gameObject.layer == LayerMask.NameToLayer("AvatarLocal") && isActivate)
         {
             inZone = true;
-            PlantInteraction.instance.DisplayPlantRecipesUI((Products)typeSeed);
+            //PlantInteraction.instance.DisplayPlantRecipesUI((Products)typeSeed);
         }
     }
 
@@ -120,7 +120,7 @@ public class TypeSeed : MonoBehaviour
         if (other.gameObject.layer == LayerMask.NameToLayer("AvatarLocal"))
         {
             inZone = false;
-            PlantInteraction.instance.ClosePlantRecipesUI();
+            //PlantInteraction.instance.ClosePlantRecipesUI();
         }
     }
 }

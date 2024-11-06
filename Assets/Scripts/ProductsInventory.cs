@@ -30,7 +30,11 @@ public class ProductsInventory : MonoBehaviour
             { Products.pimiento, 0 },
             { Products.zanahoria, 0 },
             { Products.acelga, 0 },
-            { Products.camote, 0 }
+            { Products.camote, 0 },
+            { Products.amaranto, 0 },
+            { Products.canguil, 0 },
+            { Products.mashua, 0 },
+            { Products.ocas, 0 }
         };
     }
 
@@ -53,5 +57,9 @@ public enum Products
     pimiento,
     zanahoria,
     acelga,
-    camote
+    camote,
+    amaranto,
+    canguil,
+    mashua,
+    ocas
 }
