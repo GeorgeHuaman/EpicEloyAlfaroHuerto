@@ -20,8 +20,6 @@ public class SeedsInventory : MonoBehaviour
             { Seed.LechugaRepollo, 1 },
             { Seed.LechugaCrespa, 1 },
             { Seed.Remolacha, 1 },
-            { Seed.Brocoli, 1 },
-            { Seed.Coliflor, 1 },
             { Seed.Culantro, 1 },
             { Seed.Perejil, 1 },
             { Seed.Apio, 1 },
@@ -31,7 +29,6 @@ public class SeedsInventory : MonoBehaviour
             { Seed.Acelga, 1 },
             { Seed.Camote, 1 },
             { Seed.Amaranto, 1 },
-            { Seed.Canguil, 1 },
             { Seed.Mashua, 1 },
             { Seed.Ocas, 1 }
         };
@@ -62,8 +59,6 @@ public enum Seed
     LechugaRepollo,
     LechugaCrespa,
     Remolacha,
-    Brocoli,
-    Coliflor,
     Culantro,
     Perejil,
     Apio,
@@ -73,7 +68,6 @@ public enum Seed
     Acelga,
     Camote,
     Amaranto,
-    Canguil,
     Mashua,
     Ocas
 }

@@ -18,8 +18,6 @@ public class RecipeManager : MonoBehaviour
         plantRecipes.Add(Products.lechugaRepollo, new List<string> { "tacos" });
         plantRecipes.Add(Products.lechugaCrespa, new List<string> { "Bocaditos  para 10 personas.." });
         plantRecipes.Add(Products.remolacha, new List<string> { "Salsa de remolacha" });
-        plantRecipes.Add(Products.brocoli, new List<string> { "algo con Brocoli" });
-        plantRecipes.Add(Products.coliflor, new List<string> { "algo con coliflor" });
         plantRecipes.Add(Products.culantro, new List<string> { "algo con culantro" });
         plantRecipes.Add(Products.perejil, new List<string> { "algo con perejil" });
         plantRecipes.Add(Products.apio, new List<string> { "Crema de apio con queso mozzarella, Palitos de apio" });

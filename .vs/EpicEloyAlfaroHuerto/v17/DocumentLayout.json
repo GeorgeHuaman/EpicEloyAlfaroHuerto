@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|E:\\Proyectos\\EpicEloyAlfaroHuerto\\assets\\scripts\\productsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|e:\\proyectos\\epiceloyalfarohuerto\\assets\\scripts\\productsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|solutionrelative:assets\\scripts\\productsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|e:\\proyectos\\epiceloyalfarohuerto\\assets\\scripts\\seeds\\verdure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|E:\\Proyectos\\EpicEloyAlfaroHuerto\\assets\\scripts\\ui\\verifyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|solutionrelative:assets\\scripts\\ui\\verifyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|E:\\Proyectos\\EpicEloyAlfaroHuerto\\assets\\scripts\\recipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|solutionrelative:assets\\scripts\\recipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|e:\\proyectos\\epiceloyalfarohuerto\\assets\\scripts\\seedsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|solutionrelative:assets\\scripts\\seedsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|E:\\Proyectos\\EpicEloyAlfaroHuerto\\assets\\scripts\\seeds\\verdure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|solutionrelative:assets\\scripts\\seeds\\verdure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|e:\\proyectos\\epiceloyalfarohuerto\\assets\\scripts\\seeds\\typeseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|E:\\Proyectos\\EpicEloyAlfaroHuerto\\assets\\scripts\\seeds\\typeseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|solutionrelative:assets\\scripts\\seeds\\typeseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|E:\\Proyectos\\EpicEloyAlfaroHuerto\\assets\\scripts\\seedsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|solutionrelative:assets\\scripts\\seedsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|E:\\Proyectos\\EpicEloyAlfaroHuerto\\assets\\scripts\\ui\\displayscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|E:\\Proyectos\\EpicEloyAlfaroHuerto\\assets\\scripts\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|solutionrelative:assets\\scripts\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|E:\\Proyectos\\EpicEloyAlfaroHuerto\\assets\\scripts\\ui\\verifyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07954709-4304-BE9C-8540-4EA4AD4EFE88}|NewAssembly.csproj|solutionrelative:assets\\scripts\\ui\\verifyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,12 +41,24 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 185,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 256,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "RecipeManager.cs",
+              "DocumentMoniker": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\RecipeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RecipeManager.cs",
+              "ToolTip": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\RecipeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RecipeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:07:30.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "DisplayScroll.cs",
               "DocumentMoniker": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\UI\\DisplayScroll.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DisplayScroll.cs",
@@ -54,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Zone.cs",
               "DocumentMoniker": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\Zone.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Zone.cs",
@@ -66,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Verdure.cs",
               "DocumentMoniker": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\Seeds\\Verdure.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Seeds\\Verdure.cs",
@@ -74,18 +90,17 @@
               "RelativeToolTip": "Assets\\Scripts\\Seeds\\Verdure.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAEwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T22:45:11.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T22:45:11.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "VerifyProduct.cs",
               "DocumentMoniker": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\UI\\VerifyProduct.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\VerifyProduct.cs",
               "ToolTip": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\UI\\VerifyProduct.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\VerifyProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T21:55:01.921Z"
             },
@@ -97,7 +112,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\ProductsInventory.cs",
               "ToolTip": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\ProductsInventory.cs",
               "RelativeToolTip": "Assets\\Scripts\\ProductsInventory.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwDEAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T21:54:33.654Z",
               "EditorCaption": ""
@@ -105,8 +120,8 @@
           ]
         },
         {
-          "DockedWidth": 215,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 144,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
@@ -116,13 +131,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\SeedsInventory.cs",
               "ToolTip": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\SeedsInventory.cs",
               "RelativeToolTip": "Assets\\Scripts\\SeedsInventory.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAcwCMAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T19:50:33.431Z"
+              "WhenOpened": "2024-10-25T19:50:33.431Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "TypeSeed.cs",
               "DocumentMoniker": "E:\\Proyectos\\EpicEloyAlfaroHuerto\\Assets\\Scripts\\Seeds\\TypeSeed.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Seeds\\TypeSeed.cs",
@@ -130,8 +146,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Seeds\\TypeSeed.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAEwEkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T21:36:26.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T21:36:26.947Z"
             }
           ]
         }

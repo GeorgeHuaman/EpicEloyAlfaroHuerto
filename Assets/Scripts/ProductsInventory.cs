@@ -21,8 +21,6 @@ public class ProductsInventory : MonoBehaviour
             { Products.lechugaRepollo, 0 },
             { Products.lechugaCrespa, 0 },
             { Products.remolacha, 0 },
-            { Products.brocoli, 0 },
-            { Products.coliflor, 0 },
             { Products.culantro, 0 },
             { Products.perejil, 0 },
             { Products.apio, 0 },
@@ -32,7 +30,6 @@ public class ProductsInventory : MonoBehaviour
             { Products.acelga, 0 },
             { Products.camote, 0 },
             { Products.amaranto, 0 },
-            { Products.canguil, 0 },
             { Products.mashua, 0 },
             { Products.ocas, 0 }
         };
@@ -48,8 +45,6 @@ public enum Products
     lechugaRepollo,
     lechugaCrespa,
     remolacha,
-    brocoli,
-    coliflor,
     culantro,
     perejil,
     apio,
@@ -59,7 +54,6 @@ public enum Products
     acelga,
     camote,
     amaranto,
-    canguil,
     mashua,
     ocas
 }
