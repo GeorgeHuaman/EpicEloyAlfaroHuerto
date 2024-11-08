@@ -1,0 +1,11 @@
+Model Information:
+* title:	3December - Meat
+* source:	https://sketchfab.com/3d-models/3december-meat-063a668a9ca449b7a1e2facc6128fb90
+* author:	zules (https://sketchfab.com/zules)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "3December - Meat" (https://sketchfab.com/3d-models/3december-meat-063a668a9ca449b7a1e2facc6128fb90) by zules (https://sketchfab.com/zules) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
